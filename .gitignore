@@ -1,0 +1,9 @@
+*.pyc
+*.ini
+*.sqlite
+*.crt
+*.pub
+*.pem
+/.idea/
+/app/common/
+/env/
