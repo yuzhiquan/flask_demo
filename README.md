@@ -1,4 +1,4 @@
-简单的`demo｀，`flask_demo`是一个`server`,任务函数在`tasks`，异步执行由`worker`完成
+简单的`demo`，`flask_demo`是一个`server`,任务函数在`tasks`，异步执行由`worker`完成
 
 *Deploy*:
  - 安装：`sudo apt-get install python-virtualenv`
