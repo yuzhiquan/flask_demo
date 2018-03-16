@@ -4,6 +4,7 @@
 *.crt
 *.pub
 *.pem
+*.log
 /.idea/
 /app/common/
 /env/
